@@ -1,4 +1,4 @@
-#!/usr/bin/env python2.7
+#!/usr/bin/env python
 def mean(num_list):
     try:
         return sum(num_list)/len(num_list)
