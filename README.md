@@ -1,3 +1,3 @@
 # python
 python test
-https://travis-ci.org/BopingC/python.svg?branch=master
+![(https://travis-ci.org/BopingC/python.svg?branch=master)]
