@@ -9,3 +9,4 @@ def test1():
     obs=mean(list)
     exp=4
     assert obs==exp
+
